@@ -21,4 +21,14 @@ $x = 35;
 $y =19;
 
 print "<br /><br />" . $x - $y;
+
+
+
+// Osztás
+//----------------
+
+$egyik = 5;
+$masik = 5;
+
+print ($egyik / $masik) . "<br /><br />";
 ?>
