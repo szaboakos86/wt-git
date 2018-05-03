@@ -8,10 +8,15 @@
 
 $a = 105;
 $b = 15;
-$c = 12;
-$d = 34;
+$c = 120;
+$d = 36;
 
 print $a + $b + $c + $d;
+
+// a GitHUB-on szerkesztettem
+
+
+
 
 // Kivonás
 // ----------------
