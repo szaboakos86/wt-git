@@ -9,9 +9,9 @@
 $a = 105;
 $b = 15;
 $c = 12;
-$d = 345;
+$d = 34;
 
-print $a + $b + $c;
+print $a + $b + $c + $d;
 
 // Itt a vége. :-)
 
