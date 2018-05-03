@@ -31,4 +31,12 @@ $nagy = 23;
 
 print ($kicsi * $nagy) . "<br /><br />";
 
+
+// Osztás
+//----------------
+
+$egyik = 5;
+$masik = 5;
+
+print ($egyik / $masik) . "<br /><br />";
 ?>
